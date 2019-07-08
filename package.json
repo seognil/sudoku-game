@@ -5,13 +5,13 @@
   "description": "",
   "license": "MIT",
   "author": "seognil-lab",
-  "repository": "seognil-lab/sudoku-v",
+  "repository": "seognil-craft/sudoku-game",
   "publishConfig": {
     "registry": "https://prevent.push.to.registry/"
   },
   "keywords": [],
-  "bugs": "https://github.com/seognil-lab/sudoku-v/issues",
-  "homepage": "https://github.com/seognil-lab/sudoku-v",
+  "bugs": "https://github.com/seognil-craft/sudoku-game/issues",
+  "homepage": "https://github.com/seognil-craft/sudoku-game",
   "scripts": {
     "build": "npm run build:prod --",
     "serve": "npm run start --",
